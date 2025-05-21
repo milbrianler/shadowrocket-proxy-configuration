@@ -1,0 +1,11 @@
+# 🇷🇺 Госуслуги и RU трафик — напрямую
+DOMAIN-KEYWORD,.ru,DIRECT
+DOMAIN-KEYWORD,.su,DIRECT
+DOMAIN-KEYWORD,.рф,DIRECT
+DOMAIN-SUFFIX,ru,DIRECT
+DOMAIN-SUFFIX,рф,DIRECT
+DOMAIN-SUFFIX,su,DIRECT
+DOMAIN-SUFFIX,esia.gosuslugi.ru,DIRECT
+DOMAIN-SUFFIX,gosuslugi.ru,DIRECT
+DOMAIN-SUFFIX,lk.gosuslugi.ru,DIRECT
+DOMAIN-SUFFIX,oauth.gosuslugi.ru,DIRECT
