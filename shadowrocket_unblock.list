@@ -67,9 +67,6 @@ DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,chat.openai.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,copilot-pro.microsoft.com,PROXY
-DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
-DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,PROXY
 DOMAIN-SUFFIX,deviantart.com,PROXY
 DOMAIN-SUFFIX,grok.x.com,PROXY
 DOMAIN-SUFFIX,ios.chat.openai.com,PROXY
@@ -77,6 +74,15 @@ DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,sora.com,PROXY
 DOMAIN-SUFFIX,x.ai,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
-
-# Картинки YouTube
-DOMAIN-SUFFIX,ytimg.com,PROXY
+# GitHub Copilot (VS Code extension)
+DOMAIN-KEYWORD,copilot,PROXY
+DOMAIN-SUFFIX,github-copilot.com,PROXY
+DOMAIN-SUFFIX,api.github-copilot.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,githubassets.com,PROXY
+DOMAIN-SUFFIX,github.io,PROXY
+DOMAIN-SUFFIX,ghcr.io,PROXY
+DOMAIN-SUFFIX,copilot-pro.microsoft.com,PROXY
+DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,PROXY
