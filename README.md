@@ -7,7 +7,7 @@
 В репозитории представлены готовые конфигурационные файлы и списки правил для Shadowrocket:
 
 ### Конфигурационные файлы
-- **shadowrocket_cellurar.conf** — конфигурация для мобильной сети (через прокси YouTube и заблокированные ресурсы, реклама блокируется).
+- **shadowrocket_cellular.conf** — конфигурация для мобильной сети (через прокси YouTube и заблокированные ресурсы, реклама блокируется).
 - **shadowrocket_wifi.conf** — конфигурация для Wi-Fi (YouTube напрямую, заблокированные ресурсы через прокси, реклама блокируется).
 
 ### Списки правил
@@ -20,8 +20,9 @@
 Скопируйте нужные конфигурационные файлы и списки правил в Shadowrocket.
 
 
-## Пример подключения конфигурации в shadowrocket
+## Пример подключения конфигурации в Shadowrocket
 
 ```ini
 https://raw.githubusercontent.com/milbrianler/shadowrocket-proxy-configuration/main/shadowrocket_wifi.conf
-https://raw.githubusercontent.com/milbrianler/shadowrocket-proxy-configuration/main/shadowrocket_cellurar.conf
+https://raw.githubusercontent.com/milbrianler/shadowrocket-proxy-configuration/main/shadowrocket_cellular.conf
+```
