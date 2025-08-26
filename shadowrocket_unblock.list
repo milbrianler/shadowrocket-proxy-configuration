@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,xhcdn.com,PROXY
 DOMAIN-SUFFIX,xnxx.com,PROXY
 DOMAIN,www.xnxx-ru.com,PROXY
 DOMAIN-SUFFIX,xvideos.com,PROXY
+DOMAIN-SUFFIX,chaturbate.com,PROXY
+DOMAIN-SUFFIX,pornhat.com,PROXY
+DOMAIN-SUFFIX,noodlemagazine.com,PROXY
 DOMAIN-SUFFIX,zona.media,PROXY
 DOMAIN-SUFFIX,liveball.uno,PROXY
 
@@ -75,6 +78,8 @@ DOMAIN-SUFFIX,openai.com,PROXY
 DOMAIN-SUFFIX,sora.com,PROXY
 DOMAIN-SUFFIX,x.ai,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
+DOMAIN-SUFFIX,codegpt.co,PROXY
+
 # GitHub Copilot (VS Code extension)
 DOMAIN-KEYWORD,copilot,PROXY
 DOMAIN-SUFFIX,github-copilot.com,PROXY
@@ -95,3 +100,36 @@ DOMAIN-SUFFIX,cdninstagram.com,PROXY
 DOMAIN-SUFFIX,scontent.cdninstagram.com,PROXY
 DOMAIN-SUFFIX,instagram.com,PROXY
 DOMAIN-SUFFIX,static.cdninstagram.com,PROXY
+
+# Discord
+DOMAIN-KEYWORD,discordapp,PROXY
+DOMAIN-KEYWORD,discord,PROXY
+DOMAIN-SUFFIX,airhorn.solutions,PROXY
+DOMAIN-SUFFIX,airhornbot.com,PROXY
+DOMAIN-SUFFIX,bigbeans.solutions,PROXY
+DOMAIN-SUFFIX,dis.gd,PROXY
+DOMAIN-SUFFIX,discord-activities.com,PROXY
+DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com,PROXY
+DOMAIN-SUFFIX,discord.co,PROXY
+DOMAIN-SUFFIX,discord.com,PROXY
+DOMAIN-SUFFIX,discord.design,PROXY
+DOMAIN-SUFFIX,discord.dev,PROXY
+DOMAIN-SUFFIX,discord.gg,PROXY
+DOMAIN-SUFFIX,discord.gift,PROXY
+DOMAIN-SUFFIX,discord.gifts,PROXY
+DOMAIN-SUFFIX,discord.media,PROXY
+DOMAIN-SUFFIX,discord.new,PROXY
+DOMAIN-SUFFIX,discord.store,PROXY
+DOMAIN-SUFFIX,discord.tools,PROXY
+DOMAIN-SUFFIX,discordactivities.com,PROXY
+DOMAIN-SUFFIX,discordapp.com,PROXY
+DOMAIN-SUFFIX,discordapp.io,PROXY
+DOMAIN-SUFFIX,discordapp.net,PROXY
+DOMAIN-SUFFIX,discordapp.page.link,PROXY
+DOMAIN-SUFFIX,discordcdn.com,PROXY
+DOMAIN-SUFFIX,discordmerch.com,PROXY
+DOMAIN-SUFFIX,discordpartygames.com,PROXY
+DOMAIN-SUFFIX,discordsays.com,PROXY
+DOMAIN-SUFFIX,discordstatus.com,PROXY
+DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com,PROXY
+DOMAIN-SUFFIX,watchanimeattheoffice.com,PROXY
