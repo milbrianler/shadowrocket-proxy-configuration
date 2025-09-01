@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,mediate-events,REJECT
 DOMAIN-SUFFIX,meituan,REJECT
 DOMAIN-SUFFIX,ms.applovin.com,REJECT
 DOMAIN-SUFFIX,r.mradx.net,REJECT
-DOMAIN-SUFFIX,static.tildacdn.com,REJECT
 DOMAIN-SUFFIX,thb.tildacdn.com,REJECT
 DOMAIN-SUFFIX,yandexadexchange.net,REJECT
 RULE-SET,https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt,REJECT
