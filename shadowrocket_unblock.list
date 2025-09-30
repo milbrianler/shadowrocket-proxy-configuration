@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,rutracker.net,PROXY
 DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN-SUFFIX,rutracker.ru,PROXY
 DOMAIN-SUFFIX,static.rutracker.cc,PROXY
+DOMAIN-SUFFIX,rutracker.me,PROXY
+DOMAIN-SUFFIX,rutracker.cc,PROXY
 DOMAIN-SUFFIX,static-ss.xvideos-cdn.com,PROXY
 DOMAIN-SUFFIX,strava.com,PROXY
 DOMAIN-SUFFIX,the-village.ru,PROXY
@@ -54,33 +56,39 @@ DOMAIN-SUFFIX,chaturbate.com,PROXY
 DOMAIN-SUFFIX,pornhat.com,PROXY
 DOMAIN-SUFFIX,noodlemagazine.com,PROXY
 DOMAIN-SUFFIX,zona.media,PROXY
-DOMAIN-SUFFIX,liveball.uno,PROXY
 
 
 # 🤖 AI/IT — через прокси
-DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com,PROXY
+# ChatGPT
 DOMAIN-SUFFIX,ab.chatgpt.com,PROXY
-DOMAIN-SUFFIX,api.copilot.microsoft.com,PROXY
-DOMAIN-SUFFIX,api.github.com,PROXY
-DOMAIN-SUFFIX,api.githubcopilot.com,PROXY
 DOMAIN-SUFFIX,api.openai.com,PROXY
 DOMAIN-SUFFIX,auth.openai.com,PROXY
 DOMAIN-SUFFIX,auth0.openai.com,PROXY
-DOMAIN-SUFFIX,bard.google.com,PROXY
-DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,chat.openai.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
-DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,deviantart.com,PROXY
-DOMAIN-SUFFIX,grok.x.com,PROXY
-DOMAIN-SUFFIX,ios.chat.openai.com,PROXY
+DOMAIN-SUFFIX,livekit.cloud,PROXY
 DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,oaistatic.com,PROXY
+DOMAIN-SUFFIX,oaiusercontent.com,PROXY
 DOMAIN-SUFFIX,sora.com,PROXY
-DOMAIN-SUFFIX,x.ai,PROXY
-DOMAIN-SUFFIX,x.com,PROXY
-DOMAIN-SUFFIX,codegpt.co,PROXY
+DOMAIN,api.statsig.com,PROXY
+DOMAIN,api-iam.intercom.io,PROXY
+DOMAIN,o33249.ingest.sentry.io,PROXY
+DOMAIN,openaiapi-site.azureedge.net,PROXY
+DOMAIN-KEYWORD,openaiapi,PROXY
+DOMAIN-KEYWORD,openaicom,PROXY
+DOMAIN-SUFFIX,ios.chat.openai.com,PROXY
 
-# GitHub Copilot (VS Code extension)
+# Claude
+DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,anthropic.com,PROXY
+
+# Microsoft/GitHub Copilot (VS Code extension)
+DOMAIN-KEYWORD,proactivebackend-pa.googleapis.com,PROXY
+DOMAIN-SUFFIX,api.copilot.microsoft.com,PROXY
+DOMAIN-SUFFIX,api.github.com,PROXY
+DOMAIN-SUFFIX,api.githubcopilot.com,PROXY
+DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-KEYWORD,copilot,PROXY
 DOMAIN-SUFFIX,github-copilot.com,PROXY
 DOMAIN-SUFFIX,api.github-copilot.com,PROXY
@@ -92,6 +100,42 @@ DOMAIN-SUFFIX,ghcr.io,PROXY
 DOMAIN-SUFFIX,copilot-pro.microsoft.com,PROXY
 DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,PROXY
+
+
+# Google
+# AI Studio
+DOMAIN-SUFFIX,generativeai.google,PROXY
+DOMAIN-SUFFIX,makersuite.google.com,PROXY
+DOMAIN,aistudio.google.com,PROXY
+DOMAIN,alkalicore-pa.clients6.google.com,PROXY
+DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
+# DeepMind
+DOMAIN-SUFFIX,deepmind.com,PROXY
+DOMAIN-SUFFIX,deepmind.google,PROXY
+# Gemini
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
+DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
+DOMAIN,ai.google.dev,PROXY
+DOMAIN-SUFFIX,bard.google.com,PROXY
+DOMAIN,gemini.google.com,PROXY
+
+# NotebookLM
+DOMAIN-KEYWORD,notebooklm.google,PROXY
+# Search Labs
+DOMAIN-KEYWORD,labs.google,PROXY
+
+# Grok
+DOMAIN-SUFFIX,grok.x.com,PROXY
+DOMAIN-SUFFIX,x.ai,PROXY
+DOMAIN-SUFFIX,x.com,PROXY
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai,PROXY
+DOMAIN-SUFFIX,pplx.ai,PROXY
+DOMAIN,pplx-res.cloudinary.com,PROXY
+
+# Instagram
 DOMAIN-SUFFIX,instagram.fhrk1-1.fna.fbcdn.net,PROXY
 DOMAIN-SUFFIX,instagram.fkun2-1.fna.fbcdn.net,PROXY
 DOMAIN-SUFFIX,instagram.frix7-1.fna.fbcdn.net,PROXY
@@ -133,3 +177,7 @@ DOMAIN-SUFFIX,discordsays.com,PROXY
 DOMAIN-SUFFIX,discordstatus.com,PROXY
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com,PROXY
 DOMAIN-SUFFIX,watchanimeattheoffice.com,PROXY
+
+# Other
+DOMAIN-SUFFIX,deviantart.com,PROXY
+DOMAIN-SUFFIX,codegpt.co,PROXY
