@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,holod.media,PROXY
 DOMAIN-SUFFIX,novaya.no,PROXY
 DOMAIN-SUFFIX,novayagazeta.eu,PROXY
 DOMAIN-SUFFIX,novayagazeta.ru,PROXY
+DOMAIN-KEYWORD,trimble.com,PROXY
+DOMAIN-KEYWORD,sketchup.com,PROXY
 
 
 # 🤖 AI/IT — через прокси
