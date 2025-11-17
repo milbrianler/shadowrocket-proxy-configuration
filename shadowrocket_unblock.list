@@ -186,6 +186,12 @@ DOMAIN-SUFFIX,discordsays.com,PROXY
 DOMAIN-SUFFIX,discordstatus.com,PROXY
 DOMAIN-SUFFIX,hammerandchisel.ssl.zendesk.com,PROXY
 DOMAIN-SUFFIX,watchanimeattheoffice.com,PROXY
+DOMAIN-SUFFIX,discordapi.com,PROXY
+DOMAIN-SUFFIX,discord.gg.com,PROXY
+DOMAIN-SUFFIX,images-ext-1.discordapp.net,PROXY
+DOMAIN-SUFFIX,dl.discordapp.net,PROXY
+DOMAIN-SUFFIX,images-ext-2.discordapp.net,PROXY
+DOMAIN-SUFFIX,media.discordapp.net,PROXY
 
 # Other
 DOMAIN-SUFFIX,deviantart.com,PROXY
