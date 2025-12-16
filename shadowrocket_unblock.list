@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,novayagazeta.eu,PROXY
 DOMAIN-SUFFIX,novayagazeta.ru,PROXY
 DOMAIN-KEYWORD,trimble.com,PROXY
 DOMAIN-KEYWORD,sketchup.com,PROXY
+DOMAIN-KEYWORD,militarysummary.com,PROXY
 
 
 # 🤖 AI/IT — через прокси
@@ -110,7 +111,6 @@ DOMAIN-SUFFIX,copilot-pro.microsoft.com,PROXY
 DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
 DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,PROXY
 
-
 # Google
 # AI Studio
 DOMAIN-SUFFIX,generativeai.google,PROXY
@@ -118,9 +118,11 @@ DOMAIN-SUFFIX,makersuite.google.com,PROXY
 DOMAIN,aistudio.google.com,PROXY
 DOMAIN,alkalicore-pa.clients6.google.com,PROXY
 DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
+
 # DeepMind
 DOMAIN-SUFFIX,deepmind.com,PROXY
 DOMAIN-SUFFIX,deepmind.google,PROXY
+
 # Gemini
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
 DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
