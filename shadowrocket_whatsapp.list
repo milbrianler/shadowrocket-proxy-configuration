@@ -1,0 +1,17 @@
+# WhatsApp главные домены
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,g.whatsapp.net
+DOMAIN-SUFFIX,whatsapp
+DOMAIN-SUFFIX,dit.whatsapp.net
+DOMAIN-SUFFIX,media-lax3-2.cdn.whatsapp.net
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,cdn.whatsapp.net
+
+# Сервер STUN для голосовых/видеозвонков
+DOMAIN,stun.l.google.com
+DOMAIN,stun1.l.google.com
+DOMAIN,stun2.l.google.com
+DOMAIN,stun3.l.google.com
+DOMAIN,stun4.l.google.com

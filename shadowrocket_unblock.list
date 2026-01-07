@@ -195,6 +195,10 @@ DOMAIN-SUFFIX,dl.discordapp.net,PROXY
 DOMAIN-SUFFIX,images-ext-2.discordapp.net,PROXY
 DOMAIN-SUFFIX,media.discordapp.net,PROXY
 
+# Duolingo
+DOMAIN-SUFFIX,cloudfront.net,PROXY
+
 # Other
 DOMAIN-SUFFIX,deviantart.com,PROXY
 DOMAIN-SUFFIX,codegpt.co,PROXY
+DOMAIN-SUFFIX,alen.ro,PROXY
