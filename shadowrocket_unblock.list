@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,mdza.io,PROXY
 DOMAIN-SUFFIX,meduza.io,PROXY
 DOMAIN-SUFFIX,netflix.com,PROXY
 DOMAIN-SUFFIX,nnmclub.to,PROXY
+DOMAIN-SUFFIX,nnmstatic.win,PROXY
 DOMAIN-SUFFIX,pornhub.com,PROXY
 DOMAIN-SUFFIX,pornhub.org,PROXY
 DOMAIN-SUFFIX,pornhub.phncdn.com,PROXY
@@ -32,6 +33,7 @@ DOMAIN-KEYWORD,pornhub,PROXY
 DOMAIN-SUFFIX,proekt.media,PROXY
 DOMAIN-KEYWORD,rutor,PROXY
 DOMAIN-KEYWORD,rutracker,PROXY
+DOMAIN-SUFFIX,static.rutracker.cc,PROXY
 DOMAIN-SUFFIX,speedtest.net,PROXY
 DOMAIN-SUFFIX,static-ss.xvideos-cdn.com,PROXY
 DOMAIN-SUFFIX,strava.com,PROXY
@@ -52,6 +54,7 @@ DOMAIN,www.xnxx-ru.com,PROXY
 DOMAIN-SUFFIX,xvideos.com,PROXY
 DOMAIN-SUFFIX,chaturbate.com,PROXY
 DOMAIN-SUFFIX,pornhat.com,PROXY
+DOMAIN-SUFFIX,youporn.com,PROXY
 DOMAIN-SUFFIX,noodlemagazine.com,PROXY
 DOMAIN-SUFFIX,zona.media,PROXY
 DOMAIN-SUFFIX,ikea.com,PROXY
@@ -118,6 +121,9 @@ DOMAIN-SUFFIX,makersuite.google.com,PROXY
 DOMAIN,aistudio.google.com,PROXY
 DOMAIN,alkalicore-pa.clients6.google.com,PROXY
 DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
+DOMAIN-SUFFIX,antigravity-unleash.goog,PROXY
+DOMAIN-SUFFIX,antigravity.google,PROXY
+DOMAIN-KEYWORD,antigravity,PROXY
 
 # DeepMind
 DOMAIN-SUFFIX,deepmind.com,PROXY
@@ -202,3 +208,5 @@ DOMAIN-SUFFIX,cloudfront.net,PROXY
 DOMAIN-SUFFIX,deviantart.com,PROXY
 DOMAIN-SUFFIX,codegpt.co,PROXY
 DOMAIN-SUFFIX,alen.ro,PROXY
+DOMAIN-SUFFIX,web-check.xyz,PROXY
+DOMAIN-SUFFIX,playmods.net,PROXY
