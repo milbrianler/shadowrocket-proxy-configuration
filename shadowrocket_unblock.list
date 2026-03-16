@@ -210,6 +210,8 @@ DOMAIN-SUFFIX,codegpt.co,PROXY
 DOMAIN-SUFFIX,alen.ro,PROXY
 DOMAIN-SUFFIX,web-check.xyz,PROXY
 DOMAIN-SUFFIX,playmods.net,PROXY
+DOMAIN-SUFFIX,stripe.com,PROXY
+DOMAIN-KEYWORD,stripe.com,PROXY
 
 # Games
 DOMAIN-SUFFIX,game.brawlstarsgame.com,PROXY
