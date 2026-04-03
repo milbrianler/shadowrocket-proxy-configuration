@@ -46749,11 +46749,11 @@ zen-yabro-morda.mediascope.mc.yandex.ru
 zen.yandex.com
 zen.yandex.net
 zen.yandex.ru
-@@||imap.yandex.com^$important
-@@||bmedia-gcore.justservingfiles.net^$important
-@@||static.trafficjunky.com^$important
-@@||etahub.com^$important
-@@||adtng.com^$important
-@@||api.music.yandex.net^$important!yandex music
-@@||strm.yandex.net^$important!yandex music
-@@||avatars.yandex.net^$important!yandex music
+imap.yandex.com
+bmedia-gcore.justservingfiles.net
+static.trafficjunky.com
+etahub.com
+adtng.com
+api.music.yandex.net
+strm.yandex.net
+avatars.yandex.net
