@@ -212,6 +212,10 @@ DOMAIN-SUFFIX,web-check.xyz,PROXY
 DOMAIN-SUFFIX,playmods.net,PROXY
 DOMAIN-SUFFIX,stripe.com,PROXY
 DOMAIN-KEYWORD,stripe.com,PROXY
+DOMAIN-SUFFIX,quickconnect.to,PROXY
+DOMAIN-SUFFIX,adguard.com,PROXY
+DOMAIN-SUFFIX,justservingfiles.net,PROXY
+DOMAIN-SUFFIX,ypncdn.com,PROXY
 
 # Games
 DOMAIN-SUFFIX,game.brawlstarsgame.com,PROXY
