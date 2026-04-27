@@ -221,3 +221,5 @@ DOMAIN-SUFFIX,vsassets.io,PROXY
 DOMAIN-SUFFIX,amazonaws.com,PROXY
 DOMAIN-SUFFIX,travelbelka.ru,PROXY
 DOMAIN-SUFFIX,localsend.org,PROXY
+DOMAIN-SUFFIX,ficbook.net,PROXY
+DOMAIN-SUFFIX,assets.teinon.net,PROXY
