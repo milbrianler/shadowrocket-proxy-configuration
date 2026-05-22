@@ -1,7 +1,8 @@
 # Roblox
+DOMAIN-SUFFIX,roblox.com,PROXY
 DOMAIN-SUFFIX,rbxcdn.com,PROXY
-DOMAIN-KEYWORD,roblox,PROXY
-USER-AGENT,Roblox*,PROXY
+DOMAIN-SUFFIX,rbx.com,PROXY
+DOMAIN-SUFFIX,robloxlabs.com,PROXY
 
 # Brawlstar
 DOMAIN-SUFFIX,game.brawlstarsgame.com,PROXY

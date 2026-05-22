@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,flibusta.is,PROXY
 DOMAIN-KEYWORD,hdrezka,PROXY
 DOMAIN-KEYWORD,rezka,PROXY
 DOMAIN-SUFFIX,ilook.tv,PROXY
+DOMAIN-SUFFIX,ottplayer.tv,PROXY
 DOMAIN-SUFFIX,kino.pub,PROXY
 DOMAIN-SUFFIX,linkedin.com,PROXY
 DOMAIN-SUFFIX,lostfilm.tv,PROXY
@@ -69,6 +70,10 @@ DOMAIN-SUFFIX,novayagazeta.ru,PROXY
 DOMAIN-KEYWORD,trimble.com,PROXY
 DOMAIN-KEYWORD,sketchup.com,PROXY
 DOMAIN-KEYWORD,militarysummary.com,PROXY
+DOMAIN-SUFFIX,howtogeek.com,PROXY
+DOMAIN-SUFFIX,gagadget.com,PROXY
+DOMAIN-SUFFIX,tripadvisor.com,PROXY
+DOMAIN-SUFFIX,antinote.io,PROXY
 
 
 # 🤖 AI/IT — через прокси
