@@ -74,6 +74,8 @@ DOMAIN-SUFFIX,howtogeek.com,PROXY
 DOMAIN-SUFFIX,gagadget.com,PROXY
 DOMAIN-SUFFIX,tripadvisor.com,PROXY
 DOMAIN-SUFFIX,antinote.io,PROXY
+DOMAIN-SUFFIX,threads.com,PROXY
+DOMAIN-SUFFIX,antinote.io,PROXY
 
 
 # 🤖 AI/IT — через прокси
